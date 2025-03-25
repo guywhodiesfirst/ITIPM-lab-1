@@ -3,3 +3,4 @@ new test line
 another test line
 master branch
 line 05
+line06
